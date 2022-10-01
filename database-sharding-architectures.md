@@ -1,12 +1,13 @@
+
+# Database Sharding Architectures
+
+> sql, database, sharding, advantages, disadvantages, sharding-architectures, sidsblog
+
+> This tutorial will clear all your doubts regarding the Database Sharding Architectures and how to implement them.
+
 ---
-title: "Database Sharding Architectures"
-categories: [sql, database, sharding, benefits-of-sharding, architecures, sidsblog]
-tags: [sql, database, sharding, advantages, disadvantages, sharding-architectures, sidsblog]
-date: 2021-10-17T17:26:04+05:30
-description: "This tutorial will clear all your doubts regarding the Database Sharding Architectures and how to implement them."
-author: Siddhant Mulajkar
-draft: false
----
+
+
 
 ### Once you’ve decided to shard your database, the next thing you need to figure out is how you’ll go about doing so.
 

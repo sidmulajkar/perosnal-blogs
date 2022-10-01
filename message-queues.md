@@ -1,11 +1,11 @@
----
-title: "Message Queues! What are those and when to use them? "
-categories: [queue, data-structure, database, sidsblog]
-tags: [queue, data-structure, database, sidsblog]
-date: 2021-11-26T17:26:04+05:30
-description: "This tutorial will help you understand the message queues."
-author: Siddhant Mulajkar
-draft: false
+
+
+# Message Queues! What are those and when to use them? 
+
+> queue, data-structure, database, sidsblog
+
+> This tutorial will help you understand the message queues.
+
 ---
 
 **Message queues ...📨 📨**

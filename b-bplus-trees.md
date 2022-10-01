@@ -1,13 +1,11 @@
----
-title: "B/B+ Trees How they are helpful in Database?"
-categories: [btrees, bplus-trees, trees, data-structure, database, sidsblog]
-tags: [btrees, bplus-trees, trees, data-structure, database, sidsblog]
-date: 2021-10-25T17:26:04+05:30
-description: "This tutorial will clear all your doubts regarding the B/B+ Trees and do you actually need it"
-author: Siddhant Mulajkar
-draft: false
----
 
+# B/B+ Trees How they are helpful in Database?
+
+> btrees, bplus-trees, trees, data-structure, database, sidsblog
+
+> This tutorial will clear all your doubts regarding the B/B+ Trees and do you actually need it
+
+---
 
 What are those? Ever used those while searching through the dataset.
 

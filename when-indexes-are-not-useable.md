@@ -1,11 +1,11 @@
----
-title: "When Indexes are not Useable sometimes!"
-categories: [btrees, index, data-structure, database, sidsblog]
-tags: [btrees, indexing, indexing-types, data-structure, database, sidsblog]
-date: 2021-11-16T17:26:04+05:30
-description: "This tutorial will help you understand when indexes are useful or not accordingly."
-author: Siddhant Mulajkar
-draft: false
+
+
+# When Indexes are not Useable sometimes!
+
+> btrees, indexing, indexing-types, data-structure, database, sidsblog
+
+> This tutorial will help you understand when indexes are useful or not accordingly.
+
 ---
 
 **What do I even mean by useless indexes?**

@@ -1,12 +1,13 @@
+
+
+# How to install Ubuntu using Linux Subsystem WSL-2 on Windows 10
+
+> wsl, linuxsubsystem, windows10, Ubuntu, installing wsl2 for ubuntu using linux subsytem, sidsblog
+
+> Tutorial on how to install ubuntu using linux subsystem wsl2 on windows 10
+
 ---
-title: "How to install Ubuntu using Linux Subsystem WSL-2 on Windows 10"
-categories: [wsl, linuxsubsystem, windows10, Ubuntu, installing wsl2 for ubuntu using linux subsytem, sidsblog]
-tags: [wsl, linuxsubsystem, windows10, Ubuntu, installation, sidsblog]
-date: 2021-09-23T17:26:04+05:30
-description: "Best tutorial on how to install ubuntu using linux subsystem wsl2 on windows 10"
-author: Siddhant Mulajkar
-draft: false
----
+
 
 **So, Ready to transform your Windows Environment in to your Linux Beast!!**
 

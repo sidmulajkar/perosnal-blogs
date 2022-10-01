@@ -1,11 +1,11 @@
----
-title: "How to install Flutter in Linux(Debian) based Systems"
-categories: [flutter installation in ubuntu, flutter installation, sidsblog]
-tags: [flutter, flutter installation, ubuntu, debian, linux, android studio, sidsblog]
-date: 2021-09-05T17:26:04+05:30
-description: "Best tutorial on how to install flutter in linux(debian) based system like ubuntu, popos, mint etc. Follow the steps to install flutter properly."
-author: Siddhant Mulajkar
-draft: false
+
+
+# How to install Flutter in Linux(Debian) based Systems
+
+> flutter, flutter installation, ubuntu, debian, linux, android studio, sidsblog
+
+> Tutorial on how to install flutter in linux(debian) based system like ubuntu, popos, mint etc. Follow the steps to install flutter properly.
+
 ---
 
 

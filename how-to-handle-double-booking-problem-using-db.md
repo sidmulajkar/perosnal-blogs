@@ -1,11 +1,11 @@
----
-title: "How to Handle the Double booking problem in an app or website just using the database? "
-categories: [factors, double-booking problem, concurrency control, lock mechanism, time stamping, pessimistic approach, optimistic approach, database, kubernetes, microservices, sidsblog]
-tags: [factors, double-booking problem, concurrency control, lock mechanism, time stamping, pessimistic approach, optimistic approach, database, kubernetes, microservices, sidsblog]
-date: 2022-03-19T17:26:04+05:30
-description: "In this blog, I just want to purely talk from the perspective of handling a situation like this, just considering the database itself."
-author: Siddhant Mulajkar
-draft: false
+
+
+# How to Handle the Double booking problem in an app or website just using the database?
+
+> factors, double-booking problem, concurrency control, lock mechanism, time stamping, pessimistic approach, optimistic approach, database, kubernetes, microservices, sidsblog
+
+> In this blog, I just want to purely talk from the perspective of handling a situation like this, just considering the database itself.
+
 ---
 
 

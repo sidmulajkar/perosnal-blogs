@@ -1,11 +1,10 @@
----
-title: "Databases! How do we know it's the right one? "
-categories: [factors, vertical scaling, horizontal scaling, data-structure, database, sidsblog]
-tags: [factors, vertical scaling, horizontal scaling, data-structure, database, sidsblog]
-date: 2021-12-23T17:26:04+05:30
-description: "This tutorial will help you understand what factors to consider before the selecting the database."
-author: Siddhant Mulajkar
-draft: false
+
+# Databases! How do we know it's the right one? 
+
+> factors, vertical scaling, horizontal scaling, data-structure, database, sidsblog
+
+> This tutorial will help you understand what factors to consider before the selecting the database.
+
 ---
 
 

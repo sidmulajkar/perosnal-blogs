@@ -1,11 +1,10 @@
----
-title: "What actually is Database Sharding?"
-categories: [sql, database, sharding, benefits-of-sharding, sidsblog]
-tags: [sql, database, sharding, advantages, disadvantages, sidsblog]
-date: 2021-10-14T17:26:04+05:30
-description: "This tutorial will clear all your doubts regarding the Database Sharding and do you actually need it"
-author: Siddhant Mulajkar
-draft: false
+
+# What actually is Database Sharding?
+
+> sql, database, sharding, advantages, disadvantages, sidsblog
+
+> This tutorial will clear all your doubts regarding the Database Sharding and do you actually need it
+
 ---
 
 ### Database Sharding

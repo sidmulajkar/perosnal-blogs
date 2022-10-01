@@ -1,11 +1,11 @@
----
-title: "TCP and UDP - Simple yet Confusing🤔"
-categories: [tcp, udp, networking, protocols, backend, developement, sidsblog]
-tags: [tcp, udp, networking, protocols, backend, developement, sidsblog]
-date: 2021-10-06T17:26:04+05:30
-description: "Best tutorial to understand the building blocks TCP & UDP to know which one to use"
-author: Siddhant Mulajkar
-draft: false
+
+
+# TCP and UDP - Simple yet Confusing
+
+> tcp, udp, networking, protocols, backend, developement, sidsblog
+
+> Tutorial to understand the building blocks TCP & UDP to know which one to use
+
 ---
 
 

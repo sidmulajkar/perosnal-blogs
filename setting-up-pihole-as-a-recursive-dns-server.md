@@ -1,12 +1,13 @@
+
+
+# Setting up Pi-hole as a recursive DNS server (Explained)
+
+> pihole, raspberrypi, raspberry pi pihole, dns, sidblogs, setting up pihole as recursive-dns, setting up pihole as recursive-dns using raspberrypi, pihole recursive dns
+
+> Setting up recursive dns using pihole for raspberrypi
+
 ---
-title: "Setting up Pi-hole as a recursive DNS server (Explained)"
-categories: [pihole, dns, sidblogs, setting pihole as recursive-dns, raspberrypi,raspberry pi pihole, pihole recursive dns]
-tags: [pihole, raspberrypi, raspberry pi pihole, dns, sidblogs, setting up pihole as recursive-dns, setting up pihole as recursive-dns using raspberrypi, pihole recursive dns]
-date: 2021-03-30T16:04:37+05:30
-description: "setting up recursive dns using pihole for raspberrypi"
-author: Siddhant Mulajkar
-draft: false
----
+
 
 **Got an old Raspberry Pi lying around? Hate seeing ads while browsing the web? Pi-hole is an open-source software project that blocks ads for all devices on your home network by routing all advertising servers into nowhere. What’s best is it takes just a few minutes to set up.**
 

@@ -1,12 +1,12 @@
+
+# What is TCP Slow Start?
+
+> tcp, slowstart, congestion-control, mechanism, sidsblog
+
+> This tutorial will clear all your doubts regarding the TCP Slow Start and is it really a problem
+
 ---
-title: "What is TCP Slow Start?"
-categories: [tcp, slowstart, congestion-control, mechanism, sidsblog]
-tags: [tcp, slowstart, congestion-control, mechanism, sidsblog]
-date: 2021-10-02T17:26:04+05:30
-description: "This tutorial will clear all your doubts regarding the TCP Slow Start and is it really a problem"
-author: Siddhant Mulajkar
-draft: false
----
+
 
 **Does it affect Web Application Performance?**
 
